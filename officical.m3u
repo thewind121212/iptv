@@ -296,13 +296,13 @@ http://fpt.vthanhtivi.pw/animax/index.m3u8
 #EXTINF: -1 tvg-id="cartoonhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" group-title="Hoạt Hình", Cartoon Network HD
 http://fpt.vthanhtivi.pw/cartoon/index.m3u8
 #EXTINF: -1 tvg-id="cinemaworldhd" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Phim", CinemaWorld
-http://vthanhtivi.pw/cinemaworld/index.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
 #EXTINF: -1 tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/uB76Ft0.png" group-title="Phim", Cinemax Asia
 http://fpt.vthanhtivi.pw/cinemax/index.m3u8
 #EXTINF: -1 tvg-id="hbohd" tvg-logo="https://i.imgur.com/qPXF25a.png" group-title="Phim", HBO Asia
 http://fpt.vthanhtivi.pw/hbo/index.m3u8
 #EXTINF: -1 tvg-id="boxmovie1" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png" group-title="Phim", Box Movie 1
-http://fpt.vthanhtivi.pw/Box_Movie_1/mpegts
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
 #EXTINF: -1 tvg-id="hollywoodclassics" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png" group-title="Phim", Hollywood Classics
 http://fpt.vthanhtivi.pw/Hollywood_Classics/mpegts
 #EXTINF: -1 tvg-id="inthebox" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png" group-title="Phim", In The Box
